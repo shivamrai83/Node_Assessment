@@ -13,17 +13,17 @@
     
  ## Database
  -  all the database connectivity takes place at db.js file and we have three models.
-  - 1. user
-    In this all the user are present.
-  - 2. blog
-    all the blogs are present in this model.
-  - 3. bookmarkBlog
-    Here all the blogs which is bookmarked are present.
+    - 1. user
+     In this all the user are present.
+   - 2. blog
+     all the blogs are present in this model.
+   - 3. bookmarkBlog
+     Here all the blogs which is bookmarked are present.
    
  ## Utility
  -  in this folder we have utility files.
-  - 1. token
-    Here the token generation takes place & the filter user without password function are also there.
+     - 1. token
+       Here the token generation takes place & the filter user without password function are also there.
  
  ## Main File  
   - our main file is index.js from where the server running takes place.
