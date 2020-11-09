@@ -13,12 +13,12 @@
     
  ## Database
  -  all the database connectivity takes place at db.js file and we have three models.
-    - 1. user
-     In this all the user are present.
-   - 2. blog
-     all the blogs are present in this model.
-   - 3. bookmarkBlog
-     Here all the blogs which is bookmarked are present.
+     - 1. user
+        In this all the user are present.
+     - 2. blog
+        all the blogs are present in this model.
+     - 3. bookmarkBlog
+        Here all the blogs which is bookmarked are present.
    
  ## Utility
  -  in this folder we have utility files.
