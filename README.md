@@ -2,7 +2,7 @@
 
 ## Controllers
 All controllers are present in Controller Folder
--1.blogAuth
+- 1.blogAuth
   In this all the authentication is present when the user singup  post/auth/singup the token generation takes place and same token generation takes place when the user try to log in by post/auth/login.
 
 -2. blogController 
